@@ -215,3 +215,7 @@ Subhajit Pramanick
 
 Built using Flask, Python, Groq API, Requests, HTML, CSS, and JavaScript.
 
+<img width="1880" height="970" alt="Screenshot 2026-09-30 210142" src="https://github.com/user-attachments/assets/60912dea-d0cf-4884-a1b3-504a9b425ea7" />
+
+<img width="1887" height="962" alt="Screenshot 2026-09-30 210208" src="https://github.com/user-attachments/assets/66c55b01-e4e1-4927-b33f-67889e28c4a8" />
+
