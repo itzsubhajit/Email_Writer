@@ -74,15 +74,17 @@ Recipient
 Enter the person, organization, or department receiving the email.
 
 Example:
-
+```text  
 HR Manager
+```
 Email Purpose
 
 Describe the reason for writing the email.
 
 Example:
-
+```text
 I want to request leave for three days because of a family function.
+```
 Important Points
 
 Add any specific information that should be included.
@@ -111,24 +113,31 @@ Medium
 Detailed
 Installation
 Step 1 – Clone the Repository
+```text
 git clone YOUR_GITHUB_REPOSITORY_URL
+```
 Step 2 – Open the Project
+```text
 cd Email_Writer
+```
 Step 3 – Install Dependencies
+```text
 pip install flask requests
+```
 Groq API Setup
 
 Create your API key using Groq.
 
 Open app.py and find:
-
+```text
 api_key = "YOUR_GROQ_API_KEY"
-
+```
 Replace the placeholder with your API key.
 
 Example:
-
+```text
 api_key = "gsk_xxxxxxxxxxxxxxxxx"
+```
 Security Warning
 
 Do not upload your real API key to GitHub.
@@ -138,9 +147,9 @@ For a production application, use environment variables instead of directly stor
 Run the Application
 
 Run the following command:
-
+```text
 python app.py
-
+```
 After starting the Flask server, open the address displayed in the terminal.
 
 Example
@@ -163,7 +172,9 @@ Length:
 Medium
 ```
 Generated Subject
+```text
 Request for Leave from 5th to 7th October
+```
 Generated Email
 ```text
 Dear Professor Smith,
