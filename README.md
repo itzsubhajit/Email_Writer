@@ -46,7 +46,9 @@ Email_Writer/
 │
 └── static/
     └── style.css
+```
 How the Application Works
+```text
 User Input
      ↓
 Flask Web Application
@@ -60,6 +62,7 @@ AI Processing
 Professional Subject + Email Body
      ↓
 Copy and Use
+```
 Input Fields
 Recipient
 
@@ -80,10 +83,11 @@ Important Points
 Add any specific information that should be included.
 
 Example:
-
+```text
 Leave required from 5th October to 7th October.
 I will complete all pending assignments.
 I will attend classes regularly after returning.
+```
 Tone
 
 The application supports different tones:
@@ -136,6 +140,7 @@ After starting the Flask server, open the address displayed in the terminal.
 
 Example
 Input
+```text
 Recipient:
 Professor Smith
 
@@ -151,9 +156,11 @@ Professional
 
 Length:
 Medium
+```
 Generated Subject
 Request for Leave from 5th to 7th October
 Generated Email
+```text
 Dear Professor Smith,
 
 I am writing to request leave from 5th October to 7th October as I need to attend an important family function.
@@ -166,6 +173,7 @@ Thank you for your consideration.
 
 Regards,
 Your Name
+```
 Use Cases
 
 MailCraft AI can be useful for:
