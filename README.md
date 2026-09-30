@@ -215,12 +215,3 @@ Subhajit Pramanick
 
 Built using Flask, Python, Groq API, Requests, HTML, CSS, and JavaScript.
 
-
----
-
-# README 2 — AI Chatbot
-
-Save this separately as:
-
-```text
-README.md
